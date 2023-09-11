@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T03:29:11.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TH9Oyd3c0L0Utim7bK4D" version="21.7.4" type="github">
-  <diagram name="Página-1" id="XEce_v8Rn4RGlqxSxPk9">
-    <mxGraphModel dx="912" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-09-11T19:25:51.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.4" etag="1nYJ3eLVxhQEQi8MzOGh" type="github">
+  <diagram name="Página-1" id="9on9ej2qAi6fXdcC8V35">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yViIq4JfRP-p9RxbnKVy-1" value="&lt;span style=&quot;font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:103%;font-family:&#xa;&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Arial;color:black;mso-ansi-language:&#xa;ES-MX;mso-fareast-language:ES-MX;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;633&quot; height=&quot;286&quot; src=&quot;file:///C:/Users/emili/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="68" width="550" height="312" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
